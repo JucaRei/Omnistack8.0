@@ -1,0 +1,25 @@
+/* Estilos globais para a aplicação */
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  /* não estrapole a largura e altura dele*/
+}
+
+/* pega o html, body, e a tag #root que esta dentro do index html do public*/
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background: #f5f5f5;
+}
+
+body,
+input,
+button {
+  font-family: Arial, Helvetica, sans-serif;
+}
