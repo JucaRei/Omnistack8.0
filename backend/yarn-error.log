@@ -1,11 +1,11 @@
 Arguments: 
-  /usr/bin/node /usr/local/bin/yarn dev
+  /usr/bin/node /usr/local/bin/yarn install
 
 PATH: 
-  /Users/juca/anaconda3/bin:/home/juca/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /home/juca/anaconda3/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
-  1.15.2
+  1.16.0
 
 Node version: 
   10.16.2
@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  SyntaxError: /home/juca/Documentos/workspaces/github/OmniStack/backend/package.json: Unexpected token j in JSON at position 318
+  SyntaxError: /home/juca/Documents/workspace/github/Projetos-Javascript/Omnistack8.0/backend/package.json: Unexpected token j in JSON at position 318
       at JSON.parse (<anonymous>)
       at /usr/local/lib/node_modules/yarn/lib/cli.js:1625:59
       at Generator.next (<anonymous>)
